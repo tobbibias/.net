@@ -1,0 +1,5 @@
+C:\Users\tobis\Documents\GitHub\.net\project\Notable\Notable.Model\bin\Debug\netstandard2.0\Notable.Model.deps.json
+C:\Users\tobis\Documents\GitHub\.net\project\Notable\Notable.Model\bin\Debug\netstandard2.0\Notable.Model.dll
+C:\Users\tobis\Documents\GitHub\.net\project\Notable\Notable.Model\obj\Debug\netstandard2.0\Notable.Model.csprojAssemblyReference.cache
+C:\Users\tobis\Documents\GitHub\.net\project\Notable\Notable.Model\obj\Debug\netstandard2.0\Notable.Model.AssemblyInfoInputs.cache
+C:\Users\tobis\Documents\GitHub\.net\project\Notable\Notable.Model\obj\Debug\netstandard2.0\Notable.Model.AssemblyInfo.cs
