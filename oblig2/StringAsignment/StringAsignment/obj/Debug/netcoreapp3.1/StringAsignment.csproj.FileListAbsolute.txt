@@ -26,4 +26,3 @@ C:\Users\tobis\Documents\GitHub\.net\oblig2\StringAsignment\StringAsignment\bin\
 C:\Users\tobis\Documents\GitHub\.net\oblig2\StringAsignment\StringAsignment\obj\Debug\netcoreapp3.1\StringAsignment.csproj.CopyComplete
 C:\Users\tobis\Documents\GitHub\.net\oblig2\StringAsignment\StringAsignment\obj\Debug\netcoreapp3.1\StringAsignment.dll
 C:\Users\tobis\Documents\GitHub\.net\oblig2\StringAsignment\StringAsignment\obj\Debug\netcoreapp3.1\StringAsignment.pdb
-C:\Users\tobis\Documents\GitHub\.net\oblig2\StringAsignment\StringAsignment\obj\Debug\netcoreapp3.1\StringAsignment.csprojAssemblyReference.cache

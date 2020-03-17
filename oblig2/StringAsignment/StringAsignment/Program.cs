@@ -73,7 +73,7 @@ namespace StringAsignment
                     //timer has now started , start compression.
                     using (var targetFile = OpenRead(path))
                     {
-                        using (var output = Create(path + ".gz"))
+                        using (var output = Create(path + "-compressed.gz"))
                         {
                             using (var compressor = new GZipStream(output, CompressionMode.Compress))
                             {
@@ -83,7 +83,7 @@ namespace StringAsignment
                     }
                     // compression is done. 
                     stopWatch.Stop();
-                    Console.WriteLine("File has been compressed in " + stopWatch.ElapsedMilliseconds / 100 + " time.");
+                    Console.WriteLine("File has been compressed in " + stopWatch.ElapsedMilliseconds + " ms.");
                 }
                 catch (Exception ex)
                 {
